@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/test-commit/static/css/main.073c9b0a.css",
+    "main.js": "/test-commit/static/js/main.f6293f98.js",
+    "static/js/787.c3cd8bee.chunk.js": "/test-commit/static/js/787.c3cd8bee.chunk.js",
+    "static/media/logo.svg": "/test-commit/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/test-commit/index.html",
+    "main.073c9b0a.css.map": "/test-commit/static/css/main.073c9b0a.css.map",
+    "main.f6293f98.js.map": "/test-commit/static/js/main.f6293f98.js.map",
+    "787.c3cd8bee.chunk.js.map": "/test-commit/static/js/787.c3cd8bee.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.f6293f98.js"
+  ]
+}
